@@ -1,3 +1,3 @@
-# Python Project
-This is a simple Python program created by Jéssica.
+# Html Project
+This is a simple Html program created by Jéssica.
 It was developed as part of my programming learning journey.
